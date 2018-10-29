@@ -99,7 +99,7 @@ Several modules build up this project:
 
 ![mental activities](https://yuml.me/diagram/scruffy;dir:LR/class/[exemplum]->[lust],[exemplum]->[sensorium-orientale],[exemplum]->[metacognition-console],[exemplum]->[memory],[lust]->[psyche],[memory]->[psyche],[metacognition]->[psyche],[metacognition-console]->[metacognition],[psyche]->[ontology],[sensorium-orientale]->[lust])
 
-The [examplum](kochiyama-exemplum) is binding all the modules into something which can be executed.
+The [exemplum](kochiyama-exemplum) is binding all the modules into something which can be executed.
 
 The [ontology](kochiyama-ontology) describes entities of this mental universe:
 [Person](kochiyama-ontology/src/main/java/com/xemantic/kochiyama/ontology/Person.java) and
