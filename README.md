@@ -2,9 +2,9 @@
 
 model of fetishized lust
 
-![Sofia_Crespo-Trauma_Doll-1441](media/Sofia_Crespo-Trauma_Doll-1441.jpg "Sofia Crespo / Trauma Doll")
+![Sofia_Crespo-Trauma_Doll-1441](media/Sofia_Crespo-Trauma_Doll-1441.jpg)
 
-See https://traumadoll.persona.co/my-traumas
+Illustration taken from [Trauma Doll](https://traumadoll.persona.co/my-traumas) by Sofia Crespo.
 
 _Image by _
 
