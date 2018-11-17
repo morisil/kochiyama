@@ -6,8 +6,6 @@ model of fetishized lust
 
 Illustration taken from [Trauma Doll](https://traumadoll.persona.co/my-traumas) by Sofia Crespo.
 
-_Image by _
-
 # origins
 
 This project was born in the mind of artist [Polly Yim](https://www.pollyyim.com/).
