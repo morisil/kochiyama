@@ -2,6 +2,12 @@
 
 model of fetishized lust
 
+![Sofia_Crespo-Trauma_Doll-1441](media/Sofia_Crespo-Trauma_Doll-1441.jpg "Sofia Crespo / Trauma Doll")
+
+See https://traumadoll.persona.co/my-traumas
+
+_Image by _
+
 # origins
 
 This project was born in the mind of artist [Polly Yim](https://www.pollyyim.com/).
