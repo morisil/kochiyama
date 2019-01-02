@@ -4,7 +4,8 @@ model of fetishized lust
 
 ![Sofia_Crespo-Trauma_Doll-1441](media/Sofia_Crespo-Trauma_Doll-1441.jpg)
 
-Illustration taken from [Trauma Doll](https://traumadoll.persona.co/) by Sofia Crespo.
+Illustration taken from [Trauma Doll](https://traumadoll.persona.co/) by
+[https://twitter.com/soficrespo91](Sofia Crespo).
 
 # origins
 
